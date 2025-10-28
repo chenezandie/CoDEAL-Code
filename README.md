@@ -9,4 +9,7 @@ In each example, we compare the performance in terms of MAE and MSE of our metho
 
 The OxCGRT dataset is available at https://github.com/OxCGRT/covid-policy-tracker
 
+Our paper Covariate-Adjusted-Deep-Causal-Learning-for-Heterogeneous-Panel-Data-Models can be found at https://arxiv.org/abs/2505.20536.
+
+
 
