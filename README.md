@@ -1,5 +1,5 @@
 # Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models
-Code for Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models
+Code for Covariate-Adjusted Deep Causal Learning for Heterogeneous Panel Data Models. 
 In each example, we compare the performance in terms of MAE and MSE of our methods (CoDEAL) with 6 baseline methods.
 
 ## Directory Descriptions 
