@@ -12,6 +12,7 @@ torch.set_default_dtype(torch.float32)
 from scipy import sparse
 from sklearn.linear_model import Ridge
 import causaltensor as ct
+from sklearn.decomposition import KernelPCA
 
 # -----------------------------
 # Simulation Settings
